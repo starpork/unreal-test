@@ -1,0 +1,542 @@
+﻿Log file open, 09/25/16 16:27:02
+LogInit:Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1125991032) SRandInit(-1125991032).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.067041
+LogPluginManager: Loaded Plugin Paper2D, From E:/epicgames/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From E:/epicgames/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From E:/epicgames/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From E:/epicgames/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From E:/epicgames/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From E:/epicgames/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From E:/epicgames/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3106830
+LogInit: Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3106830
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Aug 30 2016 18:11:39
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/epicgames/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.09.25-03.27.03:014][  0]LogInit: Selected Device Profile: [Windows]
+[2016.09.25-03.27.03:014][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.09.25-03.27.03:021][  0]LogInit: Computer: PC-2MORO
+[2016.09.25-03.27.03:021][  0]LogInit: User: PC
+[2016.09.25-03.27.03:021][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.09.25-03.27.03:021][  0]LogInit: High frequency timer resolution =3.386473 MHz
+[2016.09.25-03.27.03:022][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2016.09.25-03.27.03:022][  0]LogMemory: Platform Memory Stats for Windows
+[2016.09.25-03.27.03:022][  0]LogMemory: Process Physical Memory: 254.97 MB used, 254.97 MB peak
+[2016.09.25-03.27.03:022][  0]LogMemory: Process Virtual Memory: 259.59 MB used, 259.59 MB peak
+[2016.09.25-03.27.03:022][  0]LogMemory: Physical Memory: 4548.30 MB used, 8139.33 MB total
+[2016.09.25-03.27.03:022][  0]LogMemory: Virtual Memory: 623.05 MB used, 134217728.00 MB total
+[2016.09.25-03.27.03:046][  0]LogTextLocalizationManager: No specific translations for ('en-NZ') exist, so ('en') translations will be used.
+[2016.09.25-03.27.03:512][  0]LogD3D11RHI: D3D11 adapters:
+[2016.09.25-03.27.03:522][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7800 Series' (Feature Level 11_0)
+[2016.09.25-03.27.03:522][  0]LogD3D11RHI:       2029/0/4069 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2016.09.25-03.27.03:523][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.09.25-03.27.03:523][  0]LogD3D11RHI:       0/0/4069 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.09.25-03.27.03:523][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.09.25-03.27.03:526][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.09.25-03.27.03:526][  0]LogD3D11RHI:     GPU DeviceId: 0x6819 (for the marketing name, search the web for "GPU Device Id")
+[2016.09.25-03.27.03:526][  0]LogWindows: EnumDisplayDevices:
+[2016.09.25-03.27.03:526][  0]LogWindows:    0. 'AMD Radeon HD 7800 Series' (P:1 D:1)
+[2016.09.25-03.27.03:527][  0]LogWindows:    1. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.09.25-03.27.03:527][  0]LogWindows:    2. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.09.25-03.27.03:527][  0]LogWindows:    3. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.09.25-03.27.03:527][  0]LogWindows:    4. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.09.25-03.27.03:527][  0]LogWindows:    5. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.09.25-03.27.03:527][  0]LogWindows:    6. 'LogMeIn Mirror Driver' (P:0 D:0)
+[2016.09.25-03.27.03:527][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2016.09.25-03.27.03:527][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7800 Series
+[2016.09.25-03.27.03:527][  0]LogD3D11RHI:   Driver Version: Crimson 16.7.3 (internal:16.300.2311.0, unified:16.300.2311.0)
+[2016.09.25-03.27.03:527][  0]LogD3D11RHI:      Driver Date: 7-18-2016
+[2016.09.25-03.27.03:527][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.09.25-03.27.03:534][  0]LogD3D11RHI: Async texture creation enabled
+[2016.09.25-03.27.03:544][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2016.09.25-03.27.03:544][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Git Unreal/unreal-test/MyProject/Intermediate/Shaders/WorkingDirectory/1828/).
+[2016.09.25-03.27.03:544][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/70F3B7864347ACC11DBF549719D81FE7/'.
+[2016.09.25-03.27.03:544][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.09.25-03.27.04:345][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.09.25-03.27.04:352][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.09.25-03.27.04:358][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.09.25-03.27.04:364][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.09.25-03.27.04:370][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.09.25-03.27.04:376][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.09.25-03.27.04:382][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.09.25-03.27.04:387][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.09.25-03.27.04:392][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.09.25-03.27.04:398][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.09.25-03.27.04:403][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.09.25-03.27.04:414][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.09.25-03.27.04:414][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.09.25-03.27.04:414][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.09.25-03.27.04:432][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.09.25-03.27.04:437][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.09.25-03.27.04:442][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.09.25-03.27.04:448][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.09.25-03.27.04:453][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.09.25-03.27.04:458][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.09.25-03.27.04:458][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.09.25-03.27.04:507][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.09.25-03.27.04:566][  0]LogDerivedDataCache: Loaded boot cache 0.06s 62MB C:/Users/PC/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.09.25-03.27.04:566][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/PC/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.09.25-03.27.04:566][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Git Unreal/unreal-test/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.09.25-03.27.04:566][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.09.25-03.27.04:566][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Git Unreal/unreal-test/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.09.25-03.27.04:566][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.09.25-03.27.04:580][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.09.25-03.27.04:592][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.09.25-03.27.04:771][  0]LogInit: Selected Device Profile: [Windows]
+[2016.09.25-03.27.04:773][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.09.25-03.27.04:845][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.09.25-03.27.04:845][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.09.25-03.27.04:845][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.09.25-03.27.04:894][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.09.25-03.27.05:163][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: myproject, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2048413030
+[2016.09.25-03.27.05:197][  0]LogAssetRegistry: FAssetRegistry took 0.0218 seconds to start up
+[2016.09.25-03.27.05:212][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.013715 seconds
+[2016.09.25-03.27.05:216][  0]LogUObjectArray: 29777 objects as part of root set at end of initial load.
+[2016.09.25-03.27.05:216][  0]LogUObjectAllocator: 6124696 out of 0 bytes used by permanent object pool.
+[2016.09.25-03.27.05:216][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.09.25-03.27.05:220][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.09.25-03.27.05:379][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.09.25-03.27.05:379][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.09.25-03.27.05:910][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.09.25-03.27.06:096][  0]SourceControl: Info Source control is disabled
+[2016.09.25-03.27.06:096][  0]SourceControl: Info Source control is disabled
+[2016.09.25-03.27.06:102][  0]SourceControl: Info Source control is disabled
+[2016.09.25-03.27.06:107][  0]SourceControl: Info Source control is disabled
+[2016.09.25-03.27.06:303][  0]LogEngine: Initializing Engine...
+[2016.09.25-03.27.06:303][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.09.25-03.27.06:417][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.09.25-03.27.06:428][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.25-03.27.06:444][  0]LogInit: FAudioDevice initialized.
+[2016.09.25-03.27.06:480][  0]LogDerivedDataCache: Saved boot cache 0.04s 62MB C:/Users/PC/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.09.25-03.27.06:490][  0]LogInit: Texture streaming: Enabled
+[2016.09.25-03.27.06:508][  0]LogInit: Transaction tracking system initialized
+[2016.09.25-03.27.06:522][  0]BlueprintLog: New page: Editor Load
+[2016.09.25-03.27.06:656][  0]LocalizationService: Info Localization service is disabled
+[2016.09.25-03.27.06:901][  0]LogConsoleResponse:Display: 
+[2016.09.25-03.27.06:984][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.09.25-03.27.06:984][  0]LogCook:Display: Mobile HDR setting 1
+[2016.09.25-03.27.07:090][  0]LogFileCache: Scanning file cache for directory 'E:/Git Unreal/unreal-test/MyProject/Content/' took 0.01s
+[2016.09.25-03.27.07:090][  0]SourceControl: Info Source control is disabled
+[2016.09.25-03.27.07:105][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/epicgames/Epic Games/4.13/FeaturePacks/StarterContent.upack)
+[2016.09.25-03.27.07:223][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2016.09.25-03.27.07:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2016.09.25-03.27.07:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2016.09.25-03.27.07:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2016.09.25-03.27.07:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2016.09.25-03.27.07:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2016.09.25-03.27.07:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2016.09.25-03.27.07:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2016.09.25-03.27.07:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2016.09.25-03.27.07:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2016.09.25-03.27.07:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2016.09.25-03.27.07:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2016.09.25-03.27.07:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2016.09.25-03.27.07:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2016.09.25-03.27.07:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2016.09.25-03.27.07:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2016.09.25-03.27.07:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2016.09.25-03.27.07:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2016.09.25-03.27.07:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Fire01.uasset"
+[2016.09.25-03.27.07:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2016.09.25-03.27.07:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2016.09.25-03.27.07:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2016.09.25-03.27.07:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Light01.uasset"
+[2016.09.25-03.27.07:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2016.09.25-03.27.07:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Light02.uasset"
+[2016.09.25-03.27.07:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2016.09.25-03.27.07:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2016.09.25-03.27.07:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2016.09.25-03.27.07:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2016.09.25-03.27.07:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2016.09.25-03.27.07:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2016.09.25-03.27.07:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2016.09.25-03.27.07:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2016.09.25-03.27.07:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2016.09.25-03.27.07:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Steam01.uasset"
+[2016.09.25-03.27.07:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2016.09.25-03.27.07:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2016.09.25-03.27.07:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2016.09.25-03.27.07:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2016.09.25-03.27.07:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2016.09.25-03.27.07:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2016.09.25-03.27.07:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2016.09.25-03.27.07:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2016.09.25-03.27.07:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2016.09.25-03.27.07:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2016.09.25-03.27.07:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2016.09.25-03.27.07:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2016.09.25-03.27.07:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2016.09.25-03.27.07:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2016.09.25-03.27.07:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2016.09.25-03.27.07:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2016.09.25-03.27.07:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2016.09.25-03.27.08:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2016.09.25-03.27.08:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2016.09.25-03.27.08:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2016.09.25-03.27.08:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Maps/StarterMap.umap"
+[2016.09.25-03.27.08:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2016.09.25-03.27.08:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2016.09.25-03.27.08:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2016.09.25-03.27.08:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2016.09.25-03.27.08:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2016.09.25-03.27.08:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2016.09.25-03.27.08:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2016.09.25-03.27.08:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2016.09.25-03.27.08:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2016.09.25-03.27.08:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2016.09.25-03.27.08:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2016.09.25-03.27.08:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2016.09.25-03.27.08:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2016.09.25-03.27.08:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2016.09.25-03.27.08:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2016.09.25-03.27.08:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2016.09.25-03.27.08:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2016.09.25-03.27.08:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2016.09.25-03.27.08:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2016.09.25-03.27.08:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2016.09.25-03.27.08:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2016.09.25-03.27.08:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2016.09.25-03.27.08:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2016.09.25-03.27.08:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2016.09.25-03.27.08:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2016.09.25-03.27.08:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2016.09.25-03.27.08:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2016.09.25-03.27.08:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2016.09.25-03.27.08:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2016.09.25-03.27.08:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2016.09.25-03.27.08:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2016.09.25-03.27.08:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2016.09.25-03.27.08:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2016.09.25-03.27.08:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2016.09.25-03.27.08:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2016.09.25-03.27.08:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2016.09.25-03.27.08:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2016.09.25-03.27.09:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2016.09.25-03.27.09:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2016.09.25-03.27.09:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2016.09.25-03.27.09:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2016.09.25-03.27.09:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2016.09.25-03.27.09:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2016.09.25-03.27.09:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2016.09.25-03.27.09:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2016.09.25-03.27.09:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2016.09.25-03.27.09:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2016.09.25-03.27.09:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2016.09.25-03.27.09:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2016.09.25-03.27.09:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2016.09.25-03.27.09:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2016.09.25-03.27.09:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2016.09.25-03.27.09:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2016.09.25-03.27.09:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2016.09.25-03.27.09:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2016.09.25-03.27.09:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2016.09.25-03.27.09:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2016.09.25-03.27.09:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2016.09.25-03.27.09:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2016.09.25-03.27.09:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2016.09.25-03.27.09:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2016.09.25-03.27.09:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2016.09.25-03.27.09:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2016.09.25-03.27.09:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2016.09.25-03.27.09:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Door.uasset"
+[2016.09.25-03.27.09:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2016.09.25-03.27.09:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2016.09.25-03.27.09:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2016.09.25-03.27.09:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2016.09.25-03.27.09:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2016.09.25-03.27.09:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2016.09.25-03.27.09:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2016.09.25-03.27.09:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2016.09.25-03.27.09:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2016.09.25-03.27.09:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2016.09.25-03.27.09:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2016.09.25-03.27.09:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2016.09.25-03.27.09:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2016.09.25-03.27.09:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2016.09.25-03.27.09:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2016.09.25-03.27.09:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2016.09.25-03.27.09:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2016.09.25-03.27.09:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2016.09.25-03.27.09:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2016.09.25-03.27.09:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2016.09.25-03.27.09:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2016.09.25-03.27.09:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2016.09.25-03.27.09:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2016.09.25-03.27.09:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2016.09.25-03.27.09:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2016.09.25-03.27.09:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2016.09.25-03.27.09:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2016.09.25-03.27.09:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2016.09.25-03.27.09:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2016.09.25-03.27.09:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2016.09.25-03.27.09:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2016.09.25-03.27.09:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2016.09.25-03.27.09:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2016.09.25-03.27.09:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2016.09.25-03.27.09:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2016.09.25-03.27.09:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2016.09.25-03.27.09:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2016.09.25-03.27.09:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2016.09.25-03.27.09:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2016.09.25-03.27.09:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2016.09.25-03.27.09:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2016.09.25-03.27.09:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2016.09.25-03.27.09:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2016.09.25-03.27.09:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2016.09.25-03.27.09:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2016.09.25-03.27.09:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2016.09.25-03.27.09:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2016.09.25-03.27.09:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2016.09.25-03.27.09:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2016.09.25-03.27.10:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2016.09.25-03.27.10:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2016.09.25-03.27.10:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2016.09.25-03.27.10:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2016.09.25-03.27.10:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2016.09.25-03.27.10:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2016.09.25-03.27.10:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2016.09.25-03.27.10:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2016.09.25-03.27.10:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2016.09.25-03.27.10:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2016.09.25-03.27.10:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2016.09.25-03.27.10:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2016.09.25-03.27.10:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2016.09.25-03.27.10:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2016.09.25-03.27.10:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2016.09.25-03.27.10:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2016.09.25-03.27.11:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2016.09.25-03.27.11:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2016.09.25-03.27.11:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2016.09.25-03.27.11:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2016.09.25-03.27.11:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2016.09.25-03.27.11:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2016.09.25-03.27.11:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2016.09.25-03.27.11:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2016.09.25-03.27.11:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2016.09.25-03.27.11:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2016.09.25-03.27.11:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2016.09.25-03.27.12:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2016.09.25-03.27.12:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2016.09.25-03.27.12:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2016.09.25-03.27.12:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2016.09.25-03.27.12:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2016.09.25-03.27.12:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2016.09.25-03.27.12:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2016.09.25-03.27.12:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2016.09.25-03.27.13:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2016.09.25-03.27.13:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2016.09.25-03.27.13:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2016.09.25-03.27.13:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2016.09.25-03.27.13:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2016.09.25-03.27.13:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2016.09.25-03.27.13:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2016.09.25-03.27.13:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2016.09.25-03.27.13:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2016.09.25-03.27.13:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2016.09.25-03.27.13:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2016.09.25-03.27.13:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2016.09.25-03.27.14:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2016.09.25-03.27.14:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2016.09.25-03.27.14:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2016.09.25-03.27.14:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2016.09.25-03.27.14:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2016.09.25-03.27.14:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2016.09.25-03.27.14:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2016.09.25-03.27.14:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2016.09.25-03.27.15:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2016.09.25-03.27.15:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2016.09.25-03.27.15:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2016.09.25-03.27.15:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2016.09.25-03.27.15:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2016.09.25-03.27.16:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2016.09.25-03.27.16:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2016.09.25-03.27.17:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2016.09.25-03.27.17:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2016.09.25-03.27.17:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2016.09.25-03.27.17:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2016.09.25-03.27.17:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2016.09.25-03.27.18:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2016.09.25-03.27.18:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2016.09.25-03.27.18:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2016.09.25-03.27.19:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2016.09.25-03.27.19:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2016.09.25-03.27.19:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2016.09.25-03.27.19:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2016.09.25-03.27.19:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2016.09.25-03.27.19:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2016.09.25-03.27.19:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2016.09.25-03.27.20:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2016.09.25-03.27.20:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2016.09.25-03.27.20:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2016.09.25-03.27.20:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2016.09.25-03.27.20:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2016.09.25-03.27.20:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2016.09.25-03.27.20:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2016.09.25-03.27.20:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2016.09.25-03.27.20:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2016.09.25-03.27.20:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2016.09.25-03.27.20:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2016.09.25-03.27.20:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2016.09.25-03.27.21:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2016.09.25-03.27.21:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2016.09.25-03.27.21:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2016.09.25-03.27.21:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2016.09.25-03.27.21:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2016.09.25-03.27.21:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2016.09.25-03.27.21:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2016.09.25-03.27.22:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2016.09.25-03.27.22:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2016.09.25-03.27.22:793][  0]LogRenderer: Reallocating scene render targets to support 256x256 (Frame:2).
+[2016.09.25-03.27.22:934][  0]LogSavePackage: Save=9.96ms
+[2016.09.25-03.27.22:934][  0]LogSavePackage: Moving '../../../../../../Git Unreal/unreal-test/MyProject/Saved/Floor_400x400E65E41844E0B778A52E3C5A53E2A8272.tmp' to '../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2016.09.25-03.27.22:935][  0]LogSavePackage:Display: Finished SavePackage ../../../../../../Git Unreal/unreal-test/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2016.09.25-03.27.22:935][  0]LogFeaturePack:Warning: Inserted 1 feature packs
+[2016.09.25-03.27.22:936][  0]Cmd: MAP LOAD FILE="../../../../../../Git Unreal/unreal-test/MyProject/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.09.25-03.27.22:936][  0]LightingResults: New page: Lighting Build
+[2016.09.25-03.27.22:938][  0]MapCheck: New page: Map Check
+[2016.09.25-03.27.22:938][  0]LightingResults: New page: Lighting Build
+[2016.09.25-03.27.23:389][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2016.09.25-03.27.23:397][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.09.25-03.27.23:397][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.09.25-03.27.23:431][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 33.008ms to complete.
+[2016.09.25-03.27.23:431][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.495
+[2016.09.25-03.27.23:558][  0]LogCollectionManager: Loaded 0 collections in 0.000982 seconds
+[2016.09.25-03.27.23:596][  0]LogFileCache: Scanning file cache for directory 'E:/Git Unreal/unreal-test/MyProject/Saved/Collections/' took 0.01s
+[2016.09.25-03.27.23:596][  0]LogFileCache: Scanning file cache for directory 'E:/Git Unreal/unreal-test/MyProject/Content/Developers/PC/Collections/' took 0.01s
+[2016.09.25-03.27.23:596][  0]LogFileCache: Scanning file cache for directory 'E:/Git Unreal/unreal-test/MyProject/Content/Collections/' took 0.01s
+[2016.09.25-03.27.23:596][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2016.09.25-03.27.23:603][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2141 classes and 415 folders.
+[2016.09.25-03.27.23:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.09.25-03.27.23:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.09.25-03.27.23:606][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 12 classes and 0 folders.
+[2016.09.25-03.27.23:609][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.09.25-03.27.23:639][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.09.25-03.27.23:772][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.09.25-03.27.23:830][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.09.25-03.27.23:833][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.09.25-03.27.23:859][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.09.25-03.27.23:859][  0]LogLoad: (Engine Initialization) Total time: 21.41 seconds
+[2016.09.25-03.27.23:859][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.09 seconds
+[2016.09.25-03.27.23:859][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2016.09.25-03.27.23:868][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.09.25-03.27.23:868][  0]LogOcInput: OculusI
